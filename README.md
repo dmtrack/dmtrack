@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmtrack from Ekaterunburg
+- 👋 Hi, I’m @dmtrack from Ekaterinburg
 - 👀 I’m interested in JS learning and Planfix integrations 
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on JS
